@@ -1,1 +1,1 @@
-# hadoopsamples
+#HadoopLogAnalysis
